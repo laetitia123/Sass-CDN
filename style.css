@@ -11,6 +11,5 @@ submit-btn {
 }
 
 :root {
-    --main-font-family: "proxima_novaregular";
-    --main-color: red;
+    --main-color: #f5ff;
 }
