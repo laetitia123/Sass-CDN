@@ -1,4 +1,4 @@
-%submit-btn {
+submit-btn {
     background: red;
     border-color: blue;
     color: white;
@@ -10,4 +10,6 @@
     line-height: 2.5;
 }
 
-$main-font-family: "proxima_novaregular";
+:root {
+    --main-font-family: "proxima_novaregular"
+}
